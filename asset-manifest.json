@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.c9235373.js",
+    "static/media/undraw_people_re_8spw.svg": "/static/media/undraw_people_re_8spw.a0eac06f56c6a62a19d963108c728043.svg",
+    "static/media/undraw_content_team_re_6rlg.svg": "/static/media/undraw_content_team_re_6rlg.e0f73ea9643abb5583f2615622e72201.svg",
+    "index.html": "/index.html",
+    "main.c9235373.js.map": "/static/js/main.c9235373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c9235373.js"
+  ]
+}
